@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydync",
+        "uuid": 2804490,
+        "checksum": "rkmb8j"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
